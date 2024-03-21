@@ -14,22 +14,16 @@
 ![Mongo](https://img.shields.io/badge/mongo-grey?style=for-the-badge&logo=mongodb)
 ![Postgres](https://img.shields.io/badge/postgres-grey?style=for-the-badge&logo=postgresql)
 
-# 💻 Check this projects
+## 🎯 My best project at the moment
 
-### My best project at the moment, built on Next.js 14
+<a href='https://next-blog-xhr.vercel.app/'><img src='https://github.com/SergeyBogomolovv/sergeybogomolovv/blob/main/assets/Screenshot%202024-03-21%20at%2020.31.43.png?raw=true' alt='' style='width: 40%'/></a>
 
-[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=next.js)](https://next-blog-xhr.vercel.app/)
 [![Blog](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=github)](https://github.com/SergeyBogomolovv/next-blog)
 
-### Fullstack shop built with MERN
+## 💻 Also check this projects
 
-[![FPV_Shop](https://img.shields.io/badge/FPV_Shop-grey?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/FPV-shop)
-
-### API on Nest.js
-
-[![Blog api](https://img.shields.io/badge/Blog_api-grey?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-blog-api)
-
-### DND Task tracker, only front-end
+[![FPV_Shop](https://img.shields.io/badge/FPV_Shop-503fe8?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/FPV-shop)
+[![Blog api](https://img.shields.io/badge/Blog_api-a13fe8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-blog-api)
 
 [![Task tracker](https://img.shields.io/badge/Task_tracker-black?style=for-the-badge&logo=react)](https://task-tracker-iota-flax.vercel.app/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D1%81%D0%BA%D0%B0)
 [![Task tracker](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=github)](https://github.com/SergeyBogomolovv/KanBan-TaskTracker)
