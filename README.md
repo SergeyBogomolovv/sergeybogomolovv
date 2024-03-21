@@ -1,4 +1,4 @@
-[![Header](https://github.com/SergeyBogomolovv/sergeybogomolovv/blob/main/assets/bg.png?raw=true)](https://telegram.me/grekassoq)
+![Header](https://github.com/SergeyBogomolovv/sergeybogomolovv/blob/main/assets/bg.png?raw=true)
 
 # Hi there, I’m Sergey Bogomolov, fullstack developer👋
 
@@ -18,11 +18,12 @@
 
 ### My best project at the moment, built on Next.js 14
 
-[![Blog](https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=next.js)]()
+[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=next.js)](https://next-blog-xhr.vercel.app/)
+[![Blog](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=github)](https://github.com/SergeyBogomolovv/next-blog)
 
 ### Fullstack shop built with MERN
 
-[![FPV_Shop](https://img.shields.io/badge/FPV_Shop-grey?style=for-the-badge&logo=react)]()
+[![FPV_Shop](https://img.shields.io/badge/FPV_Shop-grey?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/FPV-shop)
 
 ### API on Nest.js
 
@@ -30,20 +31,10 @@
 
 ### DND Task tracker, only front-end
 
-[![Task tracker](https://img.shields.io/badge/Task_tracker-grey?style=for-the-badge&logo=react)]()
+[![Task tracker](https://img.shields.io/badge/Task_tracker-black?style=for-the-badge&logo=react)](https://task-tracker-iota-flax.vercel.app/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D1%81%D0%BA%D0%B0)
+[![Task tracker](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=github)](https://github.com/SergeyBogomolovv/KanBan-TaskTracker)
 
 ## 📱 Contacts
 
-[![Email](https://img.shields.io/badge/bogomolovs693-black?style=for-the-badge&logo=gmail)](bogomolovs693@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)]()
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href='mailto:bogomolovs693@gmail.com'>![Email](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail)</a>
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://telegram.me/grekassoq)
