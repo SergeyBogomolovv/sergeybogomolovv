@@ -18,6 +18,7 @@
 
 <a href='https://next-blog-xhr.vercel.app/'><img src='https://github.com/SergeyBogomolovv/sergeybogomolovv/blob/main/assets/Screenshot%202024-03-21%20at%2020.31.43.png?raw=true' alt='' style='width: 40%'/></a>
 
+[![Preview](https://img.shields.io/badge/Preview-black?style=for-the-badge&logo=vercel)](https://next-blog-xhr.vercel.app)
 [![Blog](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=github)](https://github.com/SergeyBogomolovv/next-blog)
 
 ## 💻 Also check this projects
