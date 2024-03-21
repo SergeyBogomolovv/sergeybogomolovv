@@ -1,6 +1,6 @@
 ![Header](https://github.com/SergeyBogomolovv/sergeybogomolovv/blob/main/assets/bg.png?raw=true)
 
-# Hi there, I’m Sergey Bogomolov, fullstack developer👋
+# Hi there, I’m Sergey Bogomolov, fullstack developer 👋
 
 ### 🛠️ Technologies and tools
 
@@ -34,7 +34,7 @@
 [![Task tracker](https://img.shields.io/badge/Task_tracker-black?style=for-the-badge&logo=react)](https://task-tracker-iota-flax.vercel.app/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D1%81%D0%BA%D0%B0)
 [![Task tracker](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=github)](https://github.com/SergeyBogomolovv/KanBan-TaskTracker)
 
-## 📱 Contacts
+# 📱 Contact
 
 <a href='mailto:bogomolovs693@gmail.com'>![Email](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail)</a>
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://telegram.me/grekassoq)
