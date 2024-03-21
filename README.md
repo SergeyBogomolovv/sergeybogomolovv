@@ -27,7 +27,7 @@
 
 ### API on Nest.js
 
-[![Blog api](https://img.shields.io/badge/Blog_api-grey?style=for-the-badge&logo=nestjs)]()
+[![Blog api](https://img.shields.io/badge/Blog_api-grey?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-blog-api)
 
 ### DND Task tracker, only front-end
 
