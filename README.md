@@ -23,7 +23,8 @@
 
 ## 💻 Also check this projects
 
-<!-- [![FPV_Shop](https://img.shields.io/badge/FPV_Shop-503fe8?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/FPV-shop) -->
+[![FPV_Shop](https://img.shields.io/badge/FPV_Shop-503fe8?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/fpv-shop-front)
+[![FPV_Shop](https://img.shields.io/badge/FPV_Shop-503fe8?style=for-the-badge&logo=express)](https://github.com/SergeyBogomolovv/fpv-shop-server)
 
 [![Blog api](https://img.shields.io/badge/Blog_api-a13fe8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-blog-api)
 
