@@ -26,7 +26,7 @@
 [![FPV_Shop](https://img.shields.io/badge/FPV_Shop-503fe8?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/fpv-shop-front)
 [![FPV_Shop](https://img.shields.io/badge/FPV_Shop-503fe8?style=for-the-badge&logo=express)](https://github.com/SergeyBogomolovv/fpv-shop-server)
 
-[![Blog api](https://img.shields.io/badge/Blog_api-a13fe8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-blog-api)
+[![Auth api](https://img.shields.io/badge/Auth_API-a13fe8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-auth)
 
 [![Task tracker](https://img.shields.io/badge/Task_tracker-black?style=for-the-badge&logo=react)](https://task-tracker-iota-flax.vercel.app/)
 [![Task tracker](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=github)](https://github.com/SergeyBogomolovv/KanBan-TaskTracker)
