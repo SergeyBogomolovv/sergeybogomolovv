@@ -4,15 +4,12 @@
 
 ### 🛠️ Technologies and tools
 
-![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
 ![Next](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
 ![Redux](https://img.shields.io/badge/redux_toolkit-grey?style=for-the-badge&logo=redux)
 ![Typescript](https://img.shields.io/badge/Typescript-grey?style=for-the-badge&logo=typescript)
 ![Nest](https://img.shields.io/badge/nest.js-grey?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express)
-![Mongo](https://img.shields.io/badge/mongo-grey?style=for-the-badge&logo=mongodb)
-![Postgres](https://img.shields.io/badge/postgres-grey?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/prisma-grey?style=for-the-badge&logo=prisma)
 
 ## 🎯 My best project at the moment
 
