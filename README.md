@@ -12,24 +12,31 @@
 ![Nest](https://img.shields.io/badge/nest.js-grey?style=for-the-badge&logo=nestjs)
 ![Prisma](https://img.shields.io/badge/prisma-grey?style=for-the-badge&logo=prisma)
 
-## 🎯 Working right now
+## 👀 My Pet-Projects
 
-[![Auth Client](https://img.shields.io/badge/Auth_Client-a13fe8?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/Auth-client)
-[![Auth api](https://img.shields.io/badge/Auth_API-a13fe8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-auth)
+### 🎨 Paint Online on Socket.IO
 
-## 👀 Best project at the moment
+[![Paint Client](https://img.shields.io/badge/client-4e6891?style=for-the-badge&logo=socket.io)](https://github.com/SergeyBogomolovv/Auth-client)
+[![Paint api](https://img.shields.io/badge/server-4e6891?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-auth)
 
-<a href='https://next-blog-xhr.vercel.app/'><img src='https://github.com/SergeyBogomolovv/sergeybogomolovv/blob/main/assets/Screenshot%202024-03-21%20at%2020.31.43.png?raw=true' alt='' style='width: 40%'/></a>
+### 🔐 JWT Auth on Nest.js + React
 
-[![Preview](https://img.shields.io/badge/Preview-black?style=for-the-badge&logo=vercel)](https://next-blog-xhr.vercel.app)
+[![Auth Client](https://img.shields.io/badge/Auth_Client-4e6891?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/Auth-client)
+[![Auth api](https://img.shields.io/badge/Auth_API-4e6891?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-auth)
+
+### ✍️ Blog on Next.js
+
+[![Preview](https://img.shields.io/badge/Preview-black?style=for-the-badge&logo=next.js)](https://next-blog-xhr.vercel.app)
 [![Blog](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=github)](https://github.com/SergeyBogomolovv/next-blog)
 
-## 💻 Also check this projects
+### 🛒 FPV Shop
 
-[![FPV_Shop](https://img.shields.io/badge/FPV_Shop-503fe8?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/fpv-shop-front)
-[![FPV_Shop](https://img.shields.io/badge/FPV_Shop-503fe8?style=for-the-badge&logo=express)](https://github.com/SergeyBogomolovv/fpv-shop-server)
+[![Client](https://img.shields.io/badge/Client-325c45?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/fpv-shop-front)
+[![FPV_Shop](https://img.shields.io/badge/server-325c45?style=for-the-badge&logo=express)](https://github.com/SergeyBogomolovv/fpv-shop-server)
 
-[![Task tracker](https://img.shields.io/badge/Task_tracker-black?style=for-the-badge&logo=react)](https://task-tracker-iota-flax.vercel.app/)
+### 📝 Kanban Task-Tracker
+
+[![Task tracker](https://img.shields.io/badge/preview-black?style=for-the-badge&logo=react)](https://task-tracker-iota-flax.vercel.app/)
 [![Task tracker](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=github)](https://github.com/SergeyBogomolovv/KanBan-TaskTracker)
 
 # 📱 Contact
