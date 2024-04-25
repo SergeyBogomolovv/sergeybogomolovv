@@ -16,13 +16,13 @@
 
 ### 🎨 Paint Online on Socket.IO
 
-[![Paint Client](https://img.shields.io/badge/client-4e6891?style=for-the-badge&logo=socket.io)](https://github.com/SergeyBogomolovv/Auth-client)
-[![Paint api](https://img.shields.io/badge/server-4e6891?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-auth)
+[![Paint Client](https://img.shields.io/badge/client-665032?style=for-the-badge&logo=socket.io)](https://github.com/SergeyBogomolovv/paint-online)
+[![Paint api](https://img.shields.io/badge/server-692e2f?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/paint-online-server)
 
 ### 🔐 JWT Auth on Nest.js + React
 
 [![Auth Client](https://img.shields.io/badge/Auth_Client-4e6891?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/Auth-client)
-[![Auth api](https://img.shields.io/badge/Auth_API-4e6891?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-auth)
+[![Auth api](https://img.shields.io/badge/Auth_API-56377d?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-auth)
 
 ### ✍️ Blog on Next.js
 
