@@ -11,6 +11,8 @@
 ![Typescript](https://img.shields.io/badge/Typescript-grey?style=for-the-badge&logo=typescript)
 ![Nest](https://img.shields.io/badge/nest.js-grey?style=for-the-badge&logo=nestjs)
 ![Prisma](https://img.shields.io/badge/prisma-grey?style=for-the-badge&logo=prisma)
+![Jest](https://img.shields.io/badge/jest-grey?style=for-the-badge&logo=jest)
+
 
 ## 👀 My Pet-Projects
 
