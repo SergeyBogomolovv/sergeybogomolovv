@@ -12,7 +12,12 @@
 ![Nest](https://img.shields.io/badge/nest.js-grey?style=for-the-badge&logo=nestjs)
 ![Prisma](https://img.shields.io/badge/prisma-grey?style=for-the-badge&logo=prisma)
 ![Jest](https://img.shields.io/badge/jest-grey?style=for-the-badge&logo=jest)
+![Socket IO](https://img.shields.io/badge/socket.io-grey?style=for-the-badge&logo=socket.io)
 
+## 🎯 Working rigth now
+
+[![Paint Client](https://img.shields.io/badge/client-161a3b?style=for-the-badge&logo=next.js)](https://github.com/SergeyBogomolovv/messenger-client)
+[![Messenger api](https://img.shields.io/badge/Messenger-3246a8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/messenger)
 
 ## 👀 My Pet-Projects
 
