@@ -3,20 +3,18 @@
 # Hi there, I’m Sergey Bogomolov, fullstack developer 👋
 
 ### 🛠️ Technologies and tools
-
-![Next](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
-![Redux](https://img.shields.io/badge/redux_toolkit-grey?style=for-the-badge&logo=redux)
-![Typescript](https://img.shields.io/badge/Typescript-grey?style=for-the-badge&logo=typescript)
-![Nest](https://img.shields.io/badge/nest.js-grey?style=for-the-badge&logo=nestjs)
-![Prisma](https://img.shields.io/badge/prisma-grey?style=for-the-badge&logo=prisma)
-![Jest](https://img.shields.io/badge/jest-grey?style=for-the-badge&logo=jest)
-![Socket IO](https://img.shields.io/badge/socket.io-grey?style=for-the-badge&logo=socket.io)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
+![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
+![React query](https://img.shields.io/badge/react_query-black?style=for-the-badge&logo=reactquery)
+![Redux](https://img.shields.io/badge/redux_toolkit-black?style=for-the-badge&logo=redux)
+![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)
+![Nest](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs)
+![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
+![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
 
 ## 🎯 Working rigth now
-
-[![Paint Client](https://img.shields.io/badge/client-161a3b?style=for-the-badge&logo=next.js)](https://github.com/SergeyBogomolovv/messenger-client)
+[![Messenger Client](https://img.shields.io/badge/client-161a3b?style=for-the-badge&logo=next.js)](https://github.com/SergeyBogomolovv/messenger-client)
 [![Messenger api](https://img.shields.io/badge/Messenger-3246a8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/messenger)
 
 ## 👀 My Pet-Projects
