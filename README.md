@@ -7,15 +7,15 @@
 ![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
 ![React query](https://img.shields.io/badge/react_query-black?style=for-the-badge&logo=reactquery)
+![Apollo](https://img.shields.io/badge/apollo-black?style=for-the-badge&logo=apollographql)
 ![Redux](https://img.shields.io/badge/redux_toolkit-black?style=for-the-badge&logo=redux)
-![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)
 ![Nest](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs)
-![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
+![Graphql](https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql)
 ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
 
 ## 🎯 Working rigth now
-[![Messenger Client](https://img.shields.io/badge/client-161a3b?style=for-the-badge&logo=next.js)](https://github.com/SergeyBogomolovv/messenger-client)
-[![Messenger api](https://img.shields.io/badge/Messenger-3246a8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/messenger)
+[![IRecommend](https://img.shields.io/badge/IRecommend-3246a8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/irecommend)
 
 ## 👀 My Pet-Projects
 
