@@ -13,6 +13,7 @@
 ![Graphql](https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql)
 ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
 ## 🎯 Working rigth now
 [![IRecommend](https://img.shields.io/badge/IRecommend-3246a8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/irecommend)
