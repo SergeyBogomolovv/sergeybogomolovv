@@ -6,7 +6,6 @@
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
 ![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
-![React query](https://img.shields.io/badge/react_query-black?style=for-the-badge&logo=reactquery)
 ![Apollo](https://img.shields.io/badge/apollo-black?style=for-the-badge&logo=apollographql)
 ![Redux](https://img.shields.io/badge/redux_toolkit-black?style=for-the-badge&logo=redux)
 ![Nest](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs)
