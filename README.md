@@ -15,27 +15,28 @@
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
-## 🎯 Working rigth now
-[![IRecommend](https://img.shields.io/badge/IRecommend-3246a8?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/irecommend)
 
-## 👀 My Pet-Projects
+
+## 👀 My Projects
+
+### 🎧 IRecommend
+
+[![IRecommend preview](https://img.shields.io/badge/preview-black?style=for-the-badge&logo=vercel)](https://irecommend.vercel.app/)
+[![IRecommend Frontend](https://img.shields.io/badge/Frontend_repo-040721?style=for-the-badge&logo=next.js)](https://github.com/SergeyBogomolovv/irecommend-front)
+[![IRecommend Backend](https://img.shields.io/badge/backend_repo-1c0626?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/irecommend-back)
+
+### ✍️ Blog on Next.js
+
+[![Preview](https://img.shields.io/badge/Preview-black?style=for-the-badge&logo=vercel)](https://next-blog-xhr.vercel.app)
+[![Blog](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=next.js)](https://github.com/SergeyBogomolovv/next-blog)
 
 ### 🎨 Paint Online on Socket.IO
 
 [![Paint Client](https://img.shields.io/badge/client-665032?style=for-the-badge&logo=socket.io)](https://github.com/SergeyBogomolovv/paint-online)
 [![Paint api](https://img.shields.io/badge/server-692e2f?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/paint-online-server)
 
-### 🔐 JWT Auth on Nest.js + React
 
-[![Auth Client](https://img.shields.io/badge/Auth_Client-4e6891?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/Auth-client)
-[![Auth api](https://img.shields.io/badge/Auth_API-56377d?style=for-the-badge&logo=nestjs)](https://github.com/SergeyBogomolovv/nest-auth)
-
-### ✍️ Blog on Next.js
-
-[![Preview](https://img.shields.io/badge/Preview-black?style=for-the-badge&logo=next.js)](https://next-blog-xhr.vercel.app)
-[![Blog](https://img.shields.io/badge/Repo-grey?style=for-the-badge&logo=github)](https://github.com/SergeyBogomolovv/next-blog)
-
-### 🛒 FPV Shop
+### 🛒 MERN Shop
 
 [![Client](https://img.shields.io/badge/Client-325c45?style=for-the-badge&logo=react)](https://github.com/SergeyBogomolovv/fpv-shop-front)
 [![FPV_Shop](https://img.shields.io/badge/server-325c45?style=for-the-badge&logo=express)](https://github.com/SergeyBogomolovv/fpv-shop-server)
