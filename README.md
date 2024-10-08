@@ -15,7 +15,7 @@
 ![React-query](https://img.shields.io/badge/react_query-black?style=for-the-badge&logo=reactquery)
 ![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)
 ![Apollo](https://img.shields.io/badge/apollo-black?style=for-the-badge&logo=apollographql)
-![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)
+![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)
 ![Webpack](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)
 ![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)
 
