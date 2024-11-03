@@ -6,7 +6,7 @@
 
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
-![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)
+![Golang](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
 
 ### 🛠️ Frontend technologies
 
