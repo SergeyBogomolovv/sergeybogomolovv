@@ -6,6 +6,7 @@
 
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
+![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=golang)
 
 ### 🛠️ Frontend technologies
 
@@ -20,6 +21,7 @@
 ![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)
 
 ### 📟 Backend technologies
+![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=golang)
 ![Node](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node.js)
 ![Nest](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs)
 ![Typeorm](https://img.shields.io/badge/typeorm-black?style=for-the-badge&logo=typeorm)
