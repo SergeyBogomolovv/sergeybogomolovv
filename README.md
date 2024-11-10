@@ -14,10 +14,7 @@
 ![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
 ![React-query](https://img.shields.io/badge/react_query-black?style=for-the-badge&logo=reactquery)
-![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)
-![Apollo](https://img.shields.io/badge/apollo-black?style=for-the-badge&logo=apollographql)
 ![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)
-![Webpack](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)
 ![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)
 
 ### 📟 Backend technologies
