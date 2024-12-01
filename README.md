@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
-![Css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)
+![Css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)
 ![React-query](https://img.shields.io/badge/react_query-black?style=for-the-badge&logo=reactquery)
 ![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)
 ![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)
