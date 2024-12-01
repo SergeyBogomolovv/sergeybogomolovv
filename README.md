@@ -20,11 +20,11 @@
 
 ### 📟 Backend technologies
 ![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
-![Node](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node.js)
-![Nest](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs)
 ![Postgres](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Node](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node.js)
+![Nest](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs)
 
 ### 📱 Contact
 
