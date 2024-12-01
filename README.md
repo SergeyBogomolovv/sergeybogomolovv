@@ -4,9 +4,8 @@
 
 ### 💻 Programming languages
 
+![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
-![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
-![Golang](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
 
 ### 🛠️ Frontend technologies
 
@@ -19,7 +18,7 @@
 ![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)
 
 ### 📟 Backend technologies
-![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
+![Go](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)
 ![Postgres](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
