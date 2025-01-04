@@ -5,6 +5,7 @@
 ### 💻 Programming languages
 
 ![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sql)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
 
 ### 🛠️ Frontend technologies
