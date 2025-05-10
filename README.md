@@ -11,6 +11,7 @@
 
 ### 📟 Backend technologies
 ![Go](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)
+![Kafka](https://img.shields.io/badge/kafka-black?style=for-the-badge&logo=kafka)
 ![Postgres](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
