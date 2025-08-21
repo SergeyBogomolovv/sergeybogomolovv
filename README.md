@@ -1,6 +1,6 @@
 ![Header](https://github.com/SergeyBogomolovv/sergeybogomolovv/blob/main/assets/bg.png?raw=true)
 
-# Hi there, I’m Sergey Bogomolov, fullstack developer 👋
+# Hi there, I’m Sergey Bogomolov, backend developer 👋
 
 ### 💻 Programming languages
 
